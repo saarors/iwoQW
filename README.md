@@ -34,7 +34,7 @@ In C/C++, you need an entry point to run the tests:
 #include "iwoQW.h"
 ```
 Or simply:
-
+```C
 #include "iwoQW.h"
 UTEST_MAIN();
 3. Write Tests
@@ -61,7 +61,7 @@ ASSERT_TRUE(cond) – check condition, stops on failure
 gcc -o tests main.c
 ./tests
 
-
+```
 Output will show results for each test: Passed / Failed / Skipped, etc.
 
 🧩 Full Example
