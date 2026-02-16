@@ -9,7 +9,7 @@ or:
  ```bash
 git clone https://github.com/saarors/iwoQW
 cd iwoQW
-test.sh - install iwoQW.h globally
+./test.sh - install iwoQW.h globally
 ```
 ---
 
