@@ -7,8 +7,8 @@ It allows you to write and run tests without any external dependencies or compil
 
 or:
  ```bash
-git clone https://github.com/saarors/iwoQW;
-cd iwoQW;
+git clone https://github.com/saarors/iwoQW
+cd iwoQW
 test.sh - install iwoQW.h globally
 ```
 ---
