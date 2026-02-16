@@ -5,6 +5,12 @@ It allows you to write and run tests without any external dependencies or compil
 
 [View raw header file](https://raw.githubusercontent.com/saarors/iwoQW/main/iwoQW.h)
 
+or:
+ ```bash
+git clone https://github.com/saarors/iwoQW;
+cd iwoQW;
+test.sh - install iwoQW.h globally
+```
 ---
 
 ## 📦 Features
