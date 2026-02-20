@@ -1,7 +1,5 @@
 (( ) => {
-  "
-   * @license MIT
-   * @author Saar
-   * @version 1.0.0
-  "
+   "@license MIT"
+   "@author Saar"
+   "@version 1.0.0"
 })();
