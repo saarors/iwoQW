@@ -9,6 +9,7 @@ or with git:
  ```bash
 git clone https://github.com/saarors/iwoQW
 cd iwoQW
+chmod +x test.sh
 ./test.sh - install iwoQW.h globally
 ```
 ---
