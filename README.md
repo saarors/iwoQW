@@ -5,13 +5,6 @@ It allows you to write and run tests without any external dependencies or compil
 
 [View raw header file](https://raw.githubusercontent.com/saarors/iwoQW/main/iwoQW.h)
 
-or with git:
- ```bash
-git clone https://github.com/saarors/iwoQW
-cd iwoQW
-chmod +x test.sh
-sudo ./test.sh --install iwoQW.h globally
-```
 ---
 
 ## 📦 Features
@@ -27,8 +20,13 @@ sudo ./test.sh --install iwoQW.h globally
 
 ### 1. Include in Your Project
 
-Copy `iwoQW.h` to your include directory:
-
+with git:
+ ```bash
+git clone https://github.com/saarors/iwoQW
+cd iwoQW
+chmod +x test.sh
+sudo ./test.sh --install iwoQW.h globally
+```
 
 ---
 
